@@ -1,0 +1,7 @@
+[up]>[rctrl]
+[down]>[lalt]
+[right]>[lctrl]
+[left]>[lalt]
+[delete]>[escape]
+[bspace]>[enter]
+[enter]>[bspace]
